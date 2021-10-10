@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e71ca8993abf6bfcd62e6a8cbc62584a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9aa12a02d0662eb28a9844d25e63d1d2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\41f3a41d7ebbf3ef4c0c315c7870d088\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5d6af1ec3ca82bd118014a6128ce6d2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\96b1d2009a2131f2fcff5e1fdcfcae38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\84e62b6e5fc4c02b7dba938e1518ba91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\20089dd8961bd46680209983343a49af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3be6228e58ace9d2c154918bd4ce160a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\051835856ea5c32ca6e8d8c00a28ba62\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\401bbcb111afd98989ed4226f15789ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\49d0529a3b6d3a419c2c12016ae78b36\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eea2bcde2ea23769a2ff1fc2defaf63a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9aa12a02d0662eb28a9844d25e63d1d2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9aa12a02d0662eb28a9844d25e63d1d2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:11:9-40
+activity#me.mahakagg.hellotoast.MainActivity
+ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:16:27-74
+activity#me.mahakagg.hellotoast.SecondActivity
+ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml:19:19-49
+uses-sdk
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e71ca8993abf6bfcd62e6a8cbc62584a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e71ca8993abf6bfcd62e6a8cbc62584a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9aa12a02d0662eb28a9844d25e63d1d2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9aa12a02d0662eb28a9844d25e63d1d2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\41f3a41d7ebbf3ef4c0c315c7870d088\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\41f3a41d7ebbf3ef4c0c315c7870d088\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5d6af1ec3ca82bd118014a6128ce6d2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5d6af1ec3ca82bd118014a6128ce6d2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\96b1d2009a2131f2fcff5e1fdcfcae38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\96b1d2009a2131f2fcff5e1fdcfcae38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\84e62b6e5fc4c02b7dba938e1518ba91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\84e62b6e5fc4c02b7dba938e1518ba91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\20089dd8961bd46680209983343a49af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\20089dd8961bd46680209983343a49af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3be6228e58ace9d2c154918bd4ce160a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3be6228e58ace9d2c154918bd4ce160a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\051835856ea5c32ca6e8d8c00a28ba62\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\051835856ea5c32ca6e8d8c00a28ba62\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\401bbcb111afd98989ed4226f15789ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\401bbcb111afd98989ed4226f15789ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\49d0529a3b6d3a419c2c12016ae78b36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\49d0529a3b6d3a419c2c12016ae78b36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eea2bcde2ea23769a2ff1fc2defaf63a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eea2bcde2ea23769a2ff1fc2defaf63a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\1.2_Part_A_Your_first_interactive_UI\HelloToast\app\src\main\AndroidManifest.xml

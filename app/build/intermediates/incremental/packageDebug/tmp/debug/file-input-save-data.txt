@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Oct 10 21:44:15 ICT 2021
+0.base=C\:\\Users\\admin\\AndroidStudioProjects\\1.2_Part_A_Your_first_interactive_UI\\HelloToast\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
